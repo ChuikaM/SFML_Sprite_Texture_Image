@@ -1,8 +1,0 @@
-﻿  main.cpp
-c:\users\matvey\source\repos\sfmllessons\sfml_sprite_texture_image\sfml_sprite_texture_image\main.cpp(20): warning C4305: аргумент: усечение из "double" в "float"
-  Создание кода
-  1 of 58 functions ( 1.7%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
-  Создание кода завершено
-  SFML_Sprite_Texture_Image.vcxproj -> C:\Users\matvey\source\repos\SFMLLessons\SFML_Sprite_Texture_Image\x64\Release\SFML_Sprite_Texture_Image.exe
